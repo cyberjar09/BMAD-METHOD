@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "bmad-method": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://gitmcp.io/bmadcode/BMAD-METHOD"
+      ],
+      "env": {}
+    }
+  }
+}
